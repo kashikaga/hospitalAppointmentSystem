@@ -1,0 +1,1 @@
+{"version":3,"sources":["bookAppointments.js"],"names":[],"mappings":";;;;AAAA;;AACA;;AACA","sourcesContent":["import React, { useState } from 'react';\r\nimport api from '../../utils/api';\r\nimport { useNavigate } from 'react-router-dom';\r\n\r\n"],"file":"bookAppointments.dev.js"}
